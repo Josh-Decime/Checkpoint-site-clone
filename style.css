@@ -1,0 +1,12 @@
+.magic-card {
+    bottom: -100px;
+    position: absolute;
+    width: 100%;
+    border-radius: 12px;
+    background: purple;
+    box-shadow: 0xp 4px 4px 0px;
+}
+
+.magic-offset {
+    margin-bottom: 0px;
+}
