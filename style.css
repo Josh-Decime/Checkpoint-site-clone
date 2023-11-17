@@ -1,5 +1,5 @@
 .magic-card {
-    bottom: -100px;
+    bottom: 775px;
     position: absolute;
     width: 100%;
     border-radius: 12px;
@@ -10,3 +10,9 @@
 .magic-offset {
     margin-bottom: 0px;
 }
+
+.bg-hero {
+    height: 40vh;
+ 
+}
+
