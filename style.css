@@ -20,3 +20,10 @@
  
 }
 
+.pad-75 {
+    padding: 75px;
+}
+
+.cst-margin {
+    padding: 150px 50px 50px 50px;
+}
