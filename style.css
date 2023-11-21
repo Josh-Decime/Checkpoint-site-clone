@@ -1,5 +1,9 @@
+.magic-anchor {
+    position: relative;
+}
+
 .magic-card {
-    bottom: -400px;
+    bottom: -120px;
     position: absolute;
     width: 40%;
     border-radius: 12px;
@@ -16,6 +20,3 @@
  
 }
 
-.magic-anchor {
-    position: relative;
-}
