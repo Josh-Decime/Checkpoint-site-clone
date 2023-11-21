@@ -5,7 +5,6 @@
 .magic-card {
     bottom: -120px;
     position: absolute;
-    width: 40%;
     border-radius: 12px;
     background: purple;
     box-shadow: 0xp 4px 4px 0px;
