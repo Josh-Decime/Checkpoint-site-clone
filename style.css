@@ -23,6 +23,15 @@
     padding: 75px;
 }
 
+
+/* would need to learn to turn this off on mobile view to use this. I found an easier work around */
 .cst-margin {
-    padding: 150px 50px 50px 50px;
+    padding: 0px 0px 50px 50px;
 }
+
+@media (min-width: 720px){
+    .cst-margin {
+        padding: 150px 50px 50px 50px;
+    }
+}
+    
