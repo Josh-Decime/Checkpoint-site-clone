@@ -24,14 +24,23 @@
 }
 
 
-/* would need to learn to turn this off on mobile view to use this. I found an easier work around */
+/* padding order: top, right, bottom, left */
 .cst-margin {
-    padding: 0px 0px 50px 50px;
+    margin: 0px 50px 50px 50px;
 }
 
 @media (min-width: 720px){
     .cst-margin {
-        padding: 150px 50px 50px 50px;
+        margin: 120px 50px 50px 50px;
     }
 }
-    
+
+.magic-margin {
+    margin: 60px 12px 110px 0px;
+}
+
+@media (min-width: 720px){
+    .magic-margin {
+        margin: 30px 30px 30px 30px;
+    }
+}
