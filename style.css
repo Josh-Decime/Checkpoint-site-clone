@@ -27,6 +27,14 @@
     font-family: Ephesis;
 }
 
+/* im not sure why but it completely ignores small but large works? Even if i make "small" larger it still has no effect */
+.cardlarge {
+    height: 250px;
+}
+
+.cardsmall {
+    height: 200;
+}
 
 /* padding order: top, right, bottom, left */
 .cst-margin {
